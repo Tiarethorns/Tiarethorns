@@ -1,5 +1,5 @@
 ### Hi there 👋, I´m Tiare
-#### Front En Developer Jr. from southern Chile
+#### Front End Developer Jr. from southern Chile
 ![Front En Developer Jr. from southern Chile](https://hyperparticle.com/public/img/github.png)
 
 Skills: NODE / REACT / JS / HTML / CSS
