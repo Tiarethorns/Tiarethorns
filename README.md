@@ -2,8 +2,6 @@
 #### Front En Developer Jr. from southern Chile
 ![Front En Developer Jr. from southern Chile](https://hyperparticle.com/public/img/github.png)
 
-Just starting and enjoying the process of learning <3
-
 Skills: NODE / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on cli command framework for markdown files 
