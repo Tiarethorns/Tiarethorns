@@ -4,8 +4,9 @@
 
 Skills: NODE / REACT / JS / HTML / CSS
 
+
 - 🔭 I’m currently working on cli command framework for markdown files 
-- 🌱 I’m currently learning Node 
+- 🌱 I’m currently learning Node & npm
 - 📫 How to reach me: tiarethorns@gmail.com 
 - 😄 Pronouns: she 
 - ⚡ Fun fact: i love different kinds of music and tattoos
