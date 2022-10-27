@@ -1,22 +1,19 @@
-![Front End Developer jr.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I´m Tiare
+#### Front En Developer Jr. from southern Chile
+![Front En Developer Jr. from southern Chile](https://hyperparticle.com/public/img/github.png)
 
-### Hi there 👋, Tiare 
-#### Front End Developer jr.
-
-
-Jr. Front End Developer from Chile, just starting in this amazing world
+Just starting and enjoying the process of learning <3
 
 Skills: NODE / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Laboratoria 
-- 🌱 I’m currently learning Node and React 
-- 🤔 I’m looking for help with cli commands 
+- 🔭 I’m currently working on cli command framework for markdown files 
+- 🌱 I’m currently learning Node 
 - 📫 How to reach me: tiarethorns@gmail.com 
-- 😄 Pronouns: She 
+- 😄 Pronouns: she 
+- ⚡ Fun fact: i love different kinds of music 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tiarethorns)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tiare-espinoza-abásolo-010b75160//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tiarethorns)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tiare-espinoza-abásolo-010b75160//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiarethorns)](https://github.com/anuraghazra/github-readme-stats)
 
 
