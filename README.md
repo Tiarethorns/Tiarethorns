@@ -1,6 +1,8 @@
+![Front End Developer jr.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, Tiare 
 #### Front End Developer jr.
-![Front End Developer jr.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Jr. Front End Developer from Chile, just starting in this amazing world
 
@@ -17,5 +19,4 @@ Skills: NODE / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiarethorns)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tiarethorns)  
 
