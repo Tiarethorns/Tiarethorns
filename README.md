@@ -2,11 +2,11 @@
 #### Front End Developer Jr. from southern Chile
 ![Front En Developer Jr. from southern Chile](https://hyperparticle.com/public/img/github.png)
 
-Skills: NODE / REACT / JS / HTML / CSS
+Skills: NODE / JS / HTML / CSS
 
 
 - 🔭 I’m currently working on cli command framework for markdown files 
-- 🌱 I’m currently learning Node & npm
+- 🌱 I’m currently Angular & Typescript
 - 📫 How to reach me: tiarethorns@gmail.com 
 - 😄 Pronouns: she 
 - ⚡ Fun fact: i love different kinds of music and tattoos
