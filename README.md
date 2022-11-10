@@ -6,7 +6,7 @@ Skills: NODE / JS / HTML / CSS
 
 
 - 🔭 I’m currently working on cli command framework for markdown files 
-- 🌱 I’m currently Angular & Typescript
+- 🌱 I’m currently learning Angular & Typescript
 - 📫 How to reach me: tiarethorns@gmail.com 
 - 😄 Pronouns: she 
 - ⚡ Fun fact: i love different kinds of music and tattoos
