@@ -1,7 +1,10 @@
-![GitHub-Emblem](https://user-images.githubusercontent.com/106929329/206322106-e729f855-169e-4ef8-abb1-8dddd66d1fe6.png)
+
 
 
 ### <div align="center">I'm Tiare, a junior developer ⛰️🌊💻 from southern Chile</div>  
+
+
+<br>
   
 
 - 🔭 I’m currently practicing my skills with virtual box and kali linux   
