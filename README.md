@@ -2,7 +2,7 @@
 
 
 ### <div align="center"> 
-I'm Tiare, a junior developer ⛰️🌊💻 from southern Chile</div>  
+I'm Tiare, a junior developer ⛰️🌊💻 from southern Chile 🌶️</div>  
 
 
 <br>
@@ -19,14 +19,14 @@ I am a Jr. web developer with interest in solving problems and positively impact
 - 🌱 I’m currently interested in cibersecurity
   
 
-- ⚡ Fun fact: i just finished a front end develop bootcamp
+- ⚡ Fun fact: i just finished a front end development bootcamp
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="20%">
 
 
 
