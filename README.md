@@ -7,7 +7,7 @@ I'm Tiare, a junior developer ⛰️🌊💻 from southern Chile 🌶️</div>
 
 <br>
 
-I am a Jr. web developer with interest in solving problems and positively impacting people's daily lives, fair treatment and transparency are important to me when it comes to getting to work. I have experience in the criminal investigation area, so i usually approach complex situations by taking time to analyze and then looking for alternatives to apply them methodically. I have also held administrative positions for companies in different industries where i have enjoyed analyzing the target audience, their interests and motivations to then create content and post on social media with greater reach.
+I am a Jr. web developer with interest in solving problems and positively impacting people's daily lives, fair treatment and transparency are important to me when it comes to getting to work. I have held administrative positions for companies in different industries where i enjoyed analyzing the target audience, their interests and motivations to then create content and post on social media with greater reach.
 
 <br>
 
